@@ -1,2 +1,2 @@
-This is my first file in master branch.
+ First file in master branch.
 
