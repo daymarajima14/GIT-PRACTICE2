@@ -1,2 +1,2 @@
-Second file of git.
+Second file of git
 
